@@ -1,0 +1,4 @@
+git init is used to initialize git
+git status gives status of the files in folder
+git add . stages all files of folder
+git log tells the who made the changes means it tells the history
