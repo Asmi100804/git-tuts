@@ -5,3 +5,4 @@ git log tells the who made the changes means it tells the history
 git commit -m "name" commits changes made
 git config --global user.name "yourname"(same for email)
 --global does changes for all
+hi
