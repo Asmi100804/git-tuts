@@ -2,3 +2,6 @@ git init is used to initialize git
 git status gives status of the files in folder
 git add . stages all files of folder
 git log tells the who made the changes means it tells the history
+git commit -m "name" commits changes made
+git config --global user.name "yourname"(same for email)
+--global does changes for all
